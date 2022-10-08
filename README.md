@@ -1,1 +1,2 @@
 # odin-recipes
+In this current project I am going to build a basic recipe website. Once I finish the project, I will have demonstrated the use of the anchor element to put links into the website, the use of head elemt and the use of the paragraph and image element.
